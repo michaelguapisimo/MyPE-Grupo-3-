@@ -1,0 +1,10 @@
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\obj\Debug\Ejercicios 1.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\obj\Debug\Ejercicios_1.Form1.resources
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\obj\Debug\Ejercicios_1.Properties.Resources.resources
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\obj\Debug\Ejercicios 1.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\obj\Debug\Ejercicios 1.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\bin\Debug\Ejercicios 1.exe.config
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\bin\Debug\Ejercicios 1.exe
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\bin\Debug\Ejercicios 1.pdb
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\obj\Debug\Ejercicios 1.exe
+C:\Users\Home\OneDrive\Escritorio\Sesion 6\Ejercicios 1\obj\Debug\Ejercicios 1.pdb

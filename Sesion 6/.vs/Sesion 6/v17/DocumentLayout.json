@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 6\\ejercicios 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|solutionrelative:ejercicios 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 6\\ejercicios 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|solutionrelative:ejercicios 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 6\\ejercicios 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|solutionrelative:ejercicios 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 6\\ejercicios 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|solutionrelative:ejercicios 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Ejercicios 1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F34CE62-5BF8-45F4-A705-D401E0E332EA}|Ejercicios 1\\Ejercicios 1.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 6\\ejercicios 1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicios 1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejercicios 1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:45:23.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Program.cs",
+              "RelativeToolTip": "Ejercicios 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:45:19.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicios 1",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Ejercicios 1.csproj",
+              "RelativeDocumentMoniker": "Ejercicios 1\\Ejercicios 1.csproj",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Ejercicios 1.csproj",
+              "RelativeToolTip": "Ejercicios 1\\Ejercicios 1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-06T15:45:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicios 1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Form1.cs",
+              "RelativeToolTip": "Ejercicios 1\\Form1.cs",
+              "ViewState": "AgIAADkAAADAzMzMzMwgwFIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:19:56.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicios 1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 6\\Ejercicios 1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios 1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:17:00.585Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
